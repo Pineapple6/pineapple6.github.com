@@ -1,0 +1,74 @@
+@font-face{font-family: 'Roboto';src: url(resources/fonts/Roboto/Roboto-Regular.ttf);}
+
+*{font-family: 'Roboto';}
+html, body{margin-left: 0px; margin-right:0px;}
+
+.name{
+    font-size: 70px;
+}
+
+.profile-picture{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 5px;
+    border-color: black;
+}
+
+.container{
+    display: inline-block;
+    align-content: center;
+}
+
+/* BUTTONS */
+.button{
+    display: inline-block;
+    margin: 10px;
+    width: 150px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    transition: background 0.2s;
+}
+.button:hover img{
+    display: block;
+    width: 30px;
+    height: 30px;
+}
+.button:hover span{display: none;}
+.button img{display: none;}
+
+.black{background: #1D1F18; color: #D5D6D5; border-color: #1D1F18;}
+.orange{background: #E2432A; color: #ffcc80; border-color: #E2432A;}
+.blue{background: #1d82f6; color: #c0ddfd; border-color: #1d82f6;}
+
+.black:hover, .orange:hover, .blue:hover{background: white;}
+
+/* CODE-ZONE */
+code{
+    background-size: 100% 100% !important;
+    font-size: 200%;
+    text-align: left;
+}
+
+.black-bg{
+    background-image: url(resources/images/code-background.jpg)!important;
+    background-attachment: fixed !important;
+}
+
+/* CRYPTO-ZONE */
+.crypto img{
+    height: 150px;
+    width: 150px;
+}
+.crypto div{
+    display: block;
+    float: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
