@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pineapple6
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pineapple6.github.io
+  * I am pineapple6 (https://keybase.io/pineapple6) on keybase.
+  * I have a public key ASDti2CeQX8M0iqr9P0EGVyzH-vPHi-QkYS8cgQ7CMIewgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fd6fd93983f400b718f546f9506906fd162913bbf783db93b4398113665ceb160a",
+      "host": "keybase.io",
+      "kid": "0120ed8b609e417f0cd22aabf4fd04195cb31febcf1e2f909184bc72043b08c21ec20a",
+      "uid": "9881036db9f645f7887d41c577a1f119",
+      "username": "pineapple6"
+    },
+    "merkle_root": {
+      "ctime": 1539977596,
+      "hash": "4d768c67fc229535fa623293efad477d377cf7c515e66e1de47726855504c0e1bb4f555b778c6fe40bb1aabbf58a4fa9e66754df8c68c807598208409eefb957",
+      "hash_meta": "26c40ce7d3f9baaafc72c18b118c068b75999a0d9f7e4f23655a03666403101c",
+      "seqno": 3822533
+    },
+    "service": {
+      "entropy": "EaoFityUh5hFrbnpDPrccbxf",
+      "hostname": "pineapple6.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.7.3"
+  },
+  "ctime": 1539977625,
+  "expire_in": 504576000,
+  "prev": "746d32801a650cee618737243d851e89e565bc44f137fb2fd70fe74b10dae38b",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7YtgnkF/DNIqq/T9BBlcsx/rzx4vkJGEvHIEOwjCHsIKp3BheWxvYWTESpcCFMQgdG0ygBplDO5hhzckPYUeieVlvETxN/sv1w/nSxDa44vEIEwp1KkldCqQJjg3xjqEtHiMh/n8w74HzCFd+ztuOO9ZAgHCo3NpZ8RACCUHC/DArZj0RUGTyKPchdmrKWs/PoURNLYdLWgBLvmShWeROpwVCt50l2f+yBL0GTfgDK9rn4cIpVN5kJqdBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKc1tBwyT8xNyolEQINUtZRCJbDhdjlLMnq6U6KV1lCco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pineapple6
+
+==================================================================
